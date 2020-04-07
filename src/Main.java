@@ -1,5 +1,5 @@
 public class Main {
-
+////
     public static void main(String[] args) {
         //Задание 2
         int intValue = 5000;
@@ -14,8 +14,8 @@ public class Main {
 
         System.out.println(returnCalculation(10, 20, 30, 40));
         System.out.println(isValueInLimit(15, 19));
-        printName("Александр");
-        printConsole(+ 200);
+        printName("Алексей");
+        printConsole( 200);
         printThis(isLeapYear(2004));
 
 
